@@ -1,4 +1,6 @@
 # node-meraki-dashboard
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tejashah88/node-meraki-dashboard.svg)](https://greenkeeper.io/)
 A node.js client library for using the Meraki Dashboard API.
 
 ## Table Of Contents
