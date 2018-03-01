@@ -15,7 +15,7 @@ function MerakiDashboard(apiKey) {
 
   var rest = {
     client: axios.create({
-      baseURL: 'https://dashboard.meraki.com/api/v0/',
+      baseURL: 'https://api.meraki.com/api/v0/',
       headers: {
         'X-Cisco-Meraki-API-Key': apiKey,
         'Content-Type': 'application/json; charset=utf-8',
